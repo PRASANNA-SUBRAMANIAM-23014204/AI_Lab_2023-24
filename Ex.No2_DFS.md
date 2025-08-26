@@ -39,5 +39,6 @@ dfs("1")
 ```
 ### Output:
 <img width="679" height="159" alt="image" src="https://github.com/user-attachments/assets/97343ee9-45fa-4464-96fd-8a18aaba9c6d" />
+
 ### Result:
 Thus the depth first search order was found sucessfully.
