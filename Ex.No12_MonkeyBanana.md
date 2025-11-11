@@ -1,7 +1,7 @@
 # Ex.No: 11  Planning –  Monkey Banana Problem
 ### DATE: 27/09/2025                                                                    
 ### REGISTER NUMBER : 212223060204
-### Name : BALAJI K
+### Name : Prasanna Subramaniam M
 ### AIM: 
 To find the sequence of plan for Monkey Banana problem using PDDL Editor.
 ###  Algorithm:
