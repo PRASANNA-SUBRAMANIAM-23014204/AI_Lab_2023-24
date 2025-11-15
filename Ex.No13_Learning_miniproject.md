@@ -1,8 +1,8 @@
 # Ex.No: 13 Learning – Use Supervised Learning  
 
 #### DATE:                         
-#### NAME: BALAJI K
-#### REGISTER NUMBER: 212223060028
+#### NAME: PRASANNA SUBRAMANIAM M
+#### REGISTER NUMBER: 212223060204
 
 ## AIM: 
 To write a program to train the classifier for Exoplanet Detection
